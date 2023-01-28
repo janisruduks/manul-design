@@ -15,7 +15,7 @@ const Intro = () => {
             <div className='col-span-1'>
                 <img src={img} className='rounded-3xl shadow-2xl shadow-black'/>
             </div>
-            <div className='col-span-1 p-3 bg-c2 rounded-2xl border-4 border-c1'>
+            <div className='text-xl col-span-1 lg:my-5 p-5 bg-c2/80 rounded-2xl border-4 border-c1'>
                 <br/>
                 <p>
                     We believe that a website is more than just a collection of pages and images, it's a powerful tool that can help you grow your business. That's why we take a strategic approach to website design and development, ensuring that every aspect of your website is tailored to your specific needs and goals.
