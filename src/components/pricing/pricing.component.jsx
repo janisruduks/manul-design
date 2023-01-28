@@ -8,10 +8,10 @@ const Pricing = () => {
         <img src={max} alt="space background" className="-z-10 absolute top-0 left-0 animation-move-bg duration-30s ease-in-out"/>
       </div>
       <div className='lg:p-10 z-2'>
-        <h1 className='text-center h-32 text-7xl text-transparent font-bold lg:px-32 bg-clip-text bg-gradient-to-r from-c1 to-c1 uppercase'>
+        <h1 className='text-center h-32 lg:text-7xl text-6xl text-transparent font-bold lg:px-32 bg-clip-text bg-gradient-to-r from-c1 to-c1 uppercase'>
           Pricing</h1>
       </div>
-      <div className='grid lg:grid-cols-3 grid-cols-1 gap-10 lg:gap-0 ml-14 lg:ml-0'>
+      <div className='grid lg:grid-cols-3 grid-cols-1 gap-10 lg:gap-0 ml-6 lg:ml-0'>
         <div className='col-span-1 text-slate-200 bg-black/30 hover:bg-c1/80 hover:transition-all backdrop-blur-lg w-80 border-2 border-c1 rounded-xl p-2 text-3xl'>
           <h1 className='font-extrabold text-center'>🥉<br/>Basic Package</h1>
           <hr className='my-3'></hr>

@@ -7,7 +7,7 @@ const BackToTopButton = () => {
   };
 
   return (
-    <div className="fixed bottom-0 right-0 m-6 cursor-pointer" onClick={handleClick}>
+    <div className="fixed bottom-0 right-0 m-6 cursor-pointer z-50" onClick={handleClick}>
       <FiChevronUp className="text-c1 h-12 w-12" />
     </div>
   );
