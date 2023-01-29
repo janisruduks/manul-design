@@ -6,7 +6,7 @@ import Logo from './assets/logo.png'
 
 function App() {
   return (
-    <nav className="bg-c1 flex items-center justify-center rounded-md font-mono lg:mx-auto lg:max-w-screen-sm lg:w-1/2 shadow-black shadow-lg">
+    <nav className="bg-c1 m-1 flex items-center justify-center rounded-md font-mono lg:mx-auto lg:max-w-screen-sm lg:w-1/2 shadow-black shadow-lg">
       <div className="flex items-center justify-center">
         <a href='/'><img src={Logo} alt="Logo" className="h-24 mr-3" /></a>
       </div>

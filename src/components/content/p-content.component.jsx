@@ -13,11 +13,11 @@ const PContent = () =>  {
             <p className='p-3 text-xl font-extrabold text-white underline'>Our core services include:</p>
             <br/>
             <ul>
-                <li className='px-12 lg:py-3 text-slate-200 font-bold'>- Web Design: We create visually appealing and responsive websites that look great on any device. Our designers are experts in creating clean, modern layouts that effectively communicate your brand's message.</li>
-                <li className='px-12 py-3 text-slate-200 font-bold'>- Web Development: We develop custom websites that are tailored to your specific business needs. We use the latest technologies and best practices to ensure that your website is fast, secure, and easy to use.</li>
-                <li className='px-12 py-3 text-slate-200 font-bold'>- Search Engine Optimization (SEO): We ensure that your website is optimized for search engines, so that it can be easily found by your target audience. We use a variety of techniques to improve your website's visibility and ranking in search engine results pages.</li>
-                <li className='px-12 py-3 text-slate-200 font-bold'>- Website Maintenance: We offer ongoing maintenance and support to keep your website running smoothly. We monitor your site for any potential issues and make updates as necessary to keep it up-to-date and secure.</li>
-                <li className='px-12 py-3 text-slate-200 font-bold'>- E-commerce: We can help you to create an online store that is easy to use and provides a great shopping experience for your customers.</li>
+                <li className='px-12 lg:py-3 text-slate-200'>- Web Design: We create visually appealing and responsive websites that look great on any device. Our designers are experts in creating clean, modern layouts that effectively communicate your brand's message.</li>
+                <li className='px-12 py-3 text-slate-200'>- Web Development: We develop custom websites that are tailored to your specific business needs. We use the latest technologies and best practices to ensure that your website is fast, secure, and easy to use.</li>
+                <li className='px-12 py-3 text-slate-200'>- Search Engine Optimization (SEO): We ensure that your website is optimized for search engines, so that it can be easily found by your target audience. We use a variety of techniques to improve your website's visibility and ranking in search engine results pages.</li>
+                <li className='px-12 py-3 text-slate-200'>- Website Maintenance: We offer ongoing maintenance and support to keep your website running smoothly. We monitor your site for any potential issues and make updates as necessary to keep it up-to-date and secure.</li>
+                <li className='px-12 py-3 text-slate-200'>- E-commerce: We can help you to create an online store that is easy to use and provides a great shopping experience for your customers.</li>
             </ul>
         </div>
     </article>
